@@ -1,5 +1,3 @@
-# fic12_flutter_starter
-
 A new Flutter project.
 
 ## Getting Started
